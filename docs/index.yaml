@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2022-06-16T08:38:49.613897024+05:00"
+    description: app
+    digest: f09bf7630915fd662ce1c97cc2b38cd564ab0e229fe75af8f181e7e874a4dcee
+    name: app
+    urls:
+    - https://anydaytmn.github.io/sklvvc/helm-common/app-0.0.2.tgz
+    version: 0.0.2
+generated: "2022-06-16T08:38:49.613107973+05:00"
